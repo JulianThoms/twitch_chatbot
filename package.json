@@ -1,0 +1,20 @@
+{
+  "name": "ChatbotTTV",
+  "version": "1.0.0",
+  "description": "A chatbot for twitch.tv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Thoms",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.7.1",
+    "twitch-js": "^1.2.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JulianThoms/"
+  }
+}
