@@ -9,7 +9,7 @@
   "author": "Julian Thoms",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "pg": "^7.7.1",
     "twitch-js": "^1.2.17"
   },
